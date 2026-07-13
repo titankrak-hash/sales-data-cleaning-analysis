@@ -25,7 +25,6 @@ The dataset contained duplicate records, inconsistent formatting, missing values
 
 - Microsoft Excel
 - Data Cleaning
-- Pivot Tables
 - Business Analysis
 - Data Visualization
 
