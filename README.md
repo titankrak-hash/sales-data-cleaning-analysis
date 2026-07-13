@@ -1,56 +1,64 @@
-# sales-data-cleaning-analysis
-Sales data cleaning and business analysis project completed during the TripleTen Data Analytics Bootcamp.
 # Sales Data Cleaning & Business Analysis
 
-## Overview
-
-This project was completed as part of the TripleTen Data Analytics Bootcamp.
-
-The objective was to clean a raw sales dataset, calculate key business metrics, create visualizations, and provide business recommendations based on Q4 2024 sales data.
-
----
+Data cleaning and exploratory business analysis project completed as part of the TripleTen Data Analytics Bootcamp.
 
 ## Business Problem
 
-The dataset contained:
+VentaExpress, an online technology retailer operating in Mexico and Colombia, needed to transform raw sales data from Q4 2024 into reliable business information for decision-making.
 
-- Missing values
-- Duplicate records
-- Inconsistent formatting
-- Unstructured product information
-
-The goal was to prepare reliable data for business analysis before generating insights.
+The dataset contained duplicate records, inconsistent formatting, missing values, and unstructured product information that required cleaning before analysis.
 
 ---
 
-## Skills Demonstrated
+## Project Objectives
 
+- Clean and standardize raw sales data.
+- Handle missing values and duplicate records.
+- Prepare the dataset for business analysis.
+- Calculate key business metrics.
+- Create visualizations to identify sales trends.
+- Deliver an executive summary with business recommendations.
+
+---
+
+## Tools Used
+
+- Microsoft Excel
 - Data Cleaning
-- Data Validation
-- KPI Analysis
-- Business Reporting
+- Pivot Tables
+- Business Analysis
 - Data Visualization
-- Microsoft Excel
-
----
-
-## Tools
-
-- Microsoft Excel
-- Google Sheets
 
 ---
 
 ## Key Results
 
-- Cleaned and standardized the sales dataset.
-- Removed duplicate records and handled missing values.
-- Calculated key business metrics.
-- Created charts to identify sales trends.
-- Delivered an executive report with business recommendations.
+- Removed duplicate records and standardized inconsistent city names.
+- Recovered missing values using business logic and calculations.
+- Identified the highest-performing city during Q4.
+- Analyzed monthly sales trends.
+- Produced an executive report with actionable business insights.
+
+---
+
+## Project Visualizations
+
+### Sales by City
+
+![Sales by City](sales_by_city.png)
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](monthly_sales_trend.png)
 
 ---
 
 ## What I Learned
 
-This project taught me the importance of preserving raw data, following a structured data-cleaning workflow, documenting every transformation, and validating data quality before analysis.
+This project reinforced the importance of preserving raw data, documenting every cleaning step, validating data quality before analysis, and communicating business insights through clear visualizations.
+
+It also strengthened my analytical thinking by transforming raw business data into actionable information.
+
+---
+
+Part of my Data Analytics portfolio.
