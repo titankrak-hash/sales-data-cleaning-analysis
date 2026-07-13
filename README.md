@@ -45,11 +45,11 @@ The dataset contained duplicate records, inconsistent formatting, missing values
 
 ### Sales by City
 
-![Sales by City](sales_by_city.png)
+![Sales by City](sales_by_city.png.png)
 
 ### Monthly Sales Trend
 
-![Monthly Sales Trend](monthly_sales_trend.png)
+![Monthly Sales Trend](monthly_sales_trend.png.png)
 
 ---
 
