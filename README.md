@@ -2,7 +2,7 @@
 
 **Main project workbook**
 
-➡️ **sales_data_cleaning_analysis.xlsx**
+➡️ [**sales_data_cleaning_analysis.xlsx**](https://github.com/titankrak-hash/sales-data-cleaning-analysis/raw/refs/heads/main/Proyecto%201_%20Limpieza%20y%20resumen%20de%20datos%20en%20hojas%20de%20c%C3%A1lculo%20(2)%20(1).xlsx)
 
 This workbook contains:
 - Raw and cleaned data
