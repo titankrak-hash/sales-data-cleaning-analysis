@@ -1,3 +1,19 @@
+## 📂 Project Files
+
+**Main project workbook**
+
+➡️ **Proyecto 1_ Limpieza y resumen de datos en hojas de cálculo (2).xlsx**
+
+This workbook contains:
+- Raw and cleaned data
+- Data cleaning process
+- Pivot tables
+- Dashboard
+- Executive summary
+- QA validation
+
+Click the Excel file in the repository above to preview or download it.
+
 # Sales Data Cleaning & Business Analysis
 
 Data cleaning and exploratory business analysis project completed as part of the TripleTen Data Analytics Bootcamp.
