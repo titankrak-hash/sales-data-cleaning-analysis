@@ -2,7 +2,7 @@
 
 **Main project workbook**
 
-➡️ **Proyecto 1_ Limpieza y resumen de datos en hojas de cálculo (2).xlsx**
+➡️ **sales_data_cleaning_analysis.xlsx**
 
 This workbook contains:
 - Raw and cleaned data
